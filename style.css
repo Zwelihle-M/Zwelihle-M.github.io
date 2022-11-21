@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+body, html{
+
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+  /* background image */
+  background: url(images/Apple_macbookpro-13-inch_screen_05042020.jpg) no-repeat center center fixed;
+
+  -webkit-background-size: cover ;
+  -moz-background-size: cover;
+  -moz-background-size:cover ;
+  background-size: cover;
+
+}
+
+h1{
+
+  font-size: 3rem;
+  color: #808080;
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 200px;
+  text-transform: uppercase;
+  position: fixed;
+    bottom:0;
+  
+  
+  
+}
+
+.btn-secondary{
+  color: #808080;
+
+  
+
+}
